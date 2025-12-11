@@ -1,6 +1,7 @@
-## Project Preview
+## attendance system 
+https://sangamitraparamesh.github.io/attendance-system/
+
 ---
-<img width="1280" height="800" alt="Screenshot 2025-11-28 at 12 17 49 PM" src="https://github.com/user-attachments/assets/5c56da62-7249-470f-bfcb-e1c80f2f97a9" />
 
 ------
 ```markdown
