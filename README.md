@@ -1,10 +1,5 @@
 ## attendance system 
 https://sangamitraparamesh.github.io/attendance-system/
-
----
-
-------
-```markdown
 -----
 # 🎓 Student Attendance System Website
 
